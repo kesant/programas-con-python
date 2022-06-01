@@ -1,5 +1,5 @@
 """Prime numbers are numbers that can only be cleanly divided by themselves and 1."""
-
+#funtion to check if the number its a prime number
 def prime_checker(number):
     counter=0
     for i in range (1,number+1):
